@@ -4,3 +4,5 @@
 *.class
 *Test.java
 **/test/
+# 忽略开发配置文件，防止密钥泄露
+/sky-server/src/main/resources/application-dev.yml
