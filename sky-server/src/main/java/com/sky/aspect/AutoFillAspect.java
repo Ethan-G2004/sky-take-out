@@ -20,6 +20,8 @@ import java.time.LocalDateTime;
  * 自定义切面类，用于实现公共字段自动填充
  */
 
+//切面=通知+切入点
+
 @Aspect
 @Component
 @Slf4j

@@ -102,7 +102,7 @@ public class EmployeeController {
     }
 
     /**
-     * 编辑员工信息
+     * 启用禁用员工账号
      * @param status
      * @param id
      * @return
